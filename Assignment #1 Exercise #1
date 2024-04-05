@@ -1,0 +1,6 @@
+# EXERCISE 1
+x = int(input("enter the ist integer"))
+y = int(input("enter the second number"))
+if (x * y  => 1000):
+    return x * y
+return sum
